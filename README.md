@@ -12,7 +12,7 @@
 - [Online Demo](https://themesberg.github.io/simple-bootstrap-5-dashboard/)
 - [Tutorial on Themesberg](https://themesberg.com/blog/bootstrap/simple-bootstrap-5-dashboard-tutorial)
 - [Volt - Free Bootstrap 5 Admin Dashboard](https://themesberg.com/product/admin-dashboard/volt-bootstrap-5-dashboard)
-- [Upgrade to Pro - Volt Pro Premium Bootstrap 5 Admin Dashboard](https://themesberg.com/product/admin-dashboard/volt-premium-bootstrap-5-dashboard)
+- Upgrade to Pro - [Volt Pro Premium Bootstrap 5 Admin Dashboard](https://themesberg.com/product/admin-dashboard/volt-premium-bootstrap-5-dashboard)
 - [Themes](https://themesberg.com/themes?ref=tutorial-gulp-4-bootstrap-sass-browsersync) from Themesberg
 - [Free themes](https://themesberg.com/products/free-themes?ref=tutorial-gulp-4-bootstrap-sass-browsersync) from Themesberg
 - [Affiliate Program](https://themesberg.com/affiliate?ref=tutorial-gulp-4-bootstrap-sass-browsersync)
