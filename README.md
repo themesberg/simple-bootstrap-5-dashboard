@@ -1,3 +1,6 @@
+# [🔥 Black Friday 2022 - Get Bootstrap 5 Templates for 90% Off](https://themesberg.com/black-friday)
+[![Themesberg Black Friday 2022](https://themesberg.com/img/campaigns/black-friday/og-image.png)](https://themesberg.com/black-friday)
+
 # Project files for the [Simple Bootstrap 5 Dashboard tutorial](https://themesberg.com/blog/bootstrap/simple-bootstrap-5-dashboard-tutorial)
 
 ![Simple Bootstrap 5 Admin Dashboard Tutorial on Themesberg](https://themesberg.s3.us-east-2.amazonaws.com/public/posts/simple-bootstrap-5-dashboard-tutorial-preview.jpg)
